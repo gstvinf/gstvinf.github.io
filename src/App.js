@@ -15,6 +15,16 @@ import About from "./pages/About";
 import Work from "./pages/Work";
 import Contact from "./pages/Contact";
 
+
+/**
+ * helper:
+ * https://diessi.ca/
+ * https://react-bootstrap.github.io
+ * https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+ * https://github.com/ReactTraining/react-router
+ * 
+ */
+
 class App extends Component {
   render() {
     return (
